@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "752779059001",
+    "firebase_url": "https://reflect-a015d-default-rtdb.firebaseio.com",
+    "project_id": "reflect-a015d",
+    "storage_bucket": "reflect-a015d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752779059001:android:673dc444364890753512e8",
+        "android_client_info": {
+          "package_name": "com.example.reflect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCenT5l0RzugflAGm6txkqlAZzMok2Mokc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
